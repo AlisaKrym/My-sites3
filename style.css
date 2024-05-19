@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+footer {
+    margin: 10px;
+    background-color: #DEB887;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    border-bottom: 4px dotted #DEB887;
+    border-top: 4px dotted #DEB887;
+}
+.link-header {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    position: absolute;
+    left: 41%;
+
+}
+header {
+    position: relative;
+}
+.link-nav {
+    text-decoration: none;
+    color: black;
+}
